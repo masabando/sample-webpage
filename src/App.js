@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1>ページタイトル</h1>
       <p>
-        こんにちは！
+        こんにちは！！
         <a href="https://www.ktc.ac.jp">近大高専のWebページ</a>も見てね！
       </p>
 
