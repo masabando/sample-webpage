@@ -1,7 +1,7 @@
 {
   "name": "sample-webpage",
   "version": "0.1.0",
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://masabando.github.io/sample-webpage",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
